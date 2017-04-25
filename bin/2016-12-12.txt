@@ -1,0 +1,14 @@
+Name: Not entered
+Total Wins: 2
+Total Loses: 3
+
+
+Game No#	Average Bet Amount (coins)
+
+1		100.0%
+2		100.0%
+3		30.0%
+4		42.857142857142854%
+5		75.0%
+___________________________________________________
+
